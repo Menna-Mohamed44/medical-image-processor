@@ -1,0 +1,16 @@
+.app {
+    background-color: #121212;
+    color: #f5f5f5;
+    min-height: 100vh;
+    font-family: "Inter", sans-serif;
+  }
+  
+  body {
+    margin: 0;
+    padding: 0;
+    background-color: #121212;
+  }
+  
+  * {
+    box-sizing: border-box;
+  }
